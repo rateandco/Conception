@@ -143,8 +143,12 @@ FORM INTERVENANT
 | Disponibilité                                                                   | f4   |
 | Connaissance du scénario de cours                                               | f5   |
 | Commentaires                                                                    | cmf  |
+|                                                                                 |      |
+|                                                                                 |      |
 
 
+
+Logique Métier / Controller
 
 
 
