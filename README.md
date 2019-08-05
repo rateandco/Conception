@@ -1,6 +1,6 @@
 # Evaluanco
 
-Team :
+## Team :
 
 - Boubacar as Tonton coder
 
@@ -10,7 +10,7 @@ Team :
 
 - Selngué as Ludo
 
-Projet :
+## Projet :
 
 évaluation des modules (cours) suivis par les stagiaires et animés par les intervenants
 
@@ -18,7 +18,7 @@ Objectif : ne plus remplir les fiches d'évaluation papier existantes en utilisa
 
 
 
-Acteurs :
+## Acteurs :
 
 - Stagiaires
 
@@ -28,7 +28,7 @@ Acteurs :
 
 
 
-
+## Caractéristiques :
 
 - Sélectionner le module (intervenant et stagiaire)
 
@@ -54,14 +54,48 @@ Acteurs :
   
   
   
-  Technologies :
   
-  - FrontEnd : Angular8
+
+## Use case :
+
+- stagiaire
   
-  - Backend : Java8
+  - Evaluer module/intervenant
+    
+    - CRU
+    
+    
+
+- intervenant
   
-  - BDD : MySql
+  - Evaluer stagiaires
+    
+    - CRU
+    
+    
+    
+     
+
+- admin
   
+  - CRU modules
   
+  - CRU stagiaires
+  
+  - CRU intervenants
+    
+    
+    
+     
+
+## Technologies :
+
+- FrontEnd : Angular8
+
+- Backend : Java8
+
+- BDD : MySql
+
+
 
 
